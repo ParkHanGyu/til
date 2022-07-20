@@ -1,0 +1,5 @@
+1. 앞으로 git 프로젝트로 만들고 싶은 것
+여러 컴퓨터에서 pull, commit, push 해보고 잘 돌아가는지 확인 해보기
+
+2. 1주차 주요 개념 키워드 적어보기
+pull, commit, push, tracking, clone, repo, history, add
